@@ -12,11 +12,11 @@ enum Coin: String {
   case BTC
   case BCH
   case ETH
-  case LTC
-  case XRP
-  case IOTA
-  case ADA
-}
+  case MCO
+  case CHAINLINK
+  case XMR
+  case BTT
+} case BNB
 
 enum FiatMoney: String {
   case USD
